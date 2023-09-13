@@ -1,4 +1,4 @@
-### Hi there 👋, welcome to my github!
+### Hi there 👋, welcome!
 
 <!--
 **stayinthemiddle/stayinthemiddle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
