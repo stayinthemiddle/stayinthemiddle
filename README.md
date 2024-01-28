@@ -3,6 +3,9 @@
 <!--
 **stayinthemiddle/stayinthemiddle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+| <a href="https://github.com/stayinthemiddle"><img align="center" src="https://github-readme-stats.vercel.app/api?username=stayinthemiddle&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="stayinthemiddle's github stats" /></a> | <a href="https://github.com/stayinthemiddle"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stayinthemiddle&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
