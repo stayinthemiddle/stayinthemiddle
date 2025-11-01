@@ -1,9 +1,5 @@
 ### Hi there 👋, welcome!
 
-Study Path:
-1 Linux 
-2 Java
-3 
 
 <!--
 **stayinthemiddle/stayinthemiddle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
